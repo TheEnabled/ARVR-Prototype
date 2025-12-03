@@ -1,6 +1,10 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< Updated upstream
 --- !u!114 &-3796854253969849870
+=======
+--- !u!114 &-6766634012145829548
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -39,8 +43,13 @@ MonoBehaviour:
     probeVolumeBlendStatesCS: {fileID: 7200000, guid: b9a23f869c4fd45f19c5ada54dd82176, type: 3}
   m_RendererFeatures:
   - {fileID: 7833122117494664109}
+<<<<<<< Updated upstream
   - {fileID: -3796854253969849870}
   m_RendererFeatureMap: ad6b866f10d7b46cf24132302cdd4ecb
+=======
+  - {fileID: -6766634012145829548}
+  m_RendererFeatureMap: ad6b866f10d7b46c54b9f894371618a2
+>>>>>>> Stashed changes
   m_UseNativeRenderPass: 1
   xrSystemData: {fileID: 0}
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}

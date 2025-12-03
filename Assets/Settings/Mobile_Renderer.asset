@@ -25,8 +25,13 @@ MonoBehaviour:
     probeSamplingDebugTexture: {fileID: 0}
     probeVolumeBlendStatesCS: {fileID: 0}
   m_RendererFeatures:
+<<<<<<< Updated upstream
   - {fileID: 970310417471627764}
   m_RendererFeatureMap: f4e1410b2f3c770d
+=======
+  - {fileID: 7758610353079515664}
+  m_RendererFeatureMap: 10faf85d021fac6b
+>>>>>>> Stashed changes
   m_UseNativeRenderPass: 1
   xrSystemData: {fileID: 0}
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
@@ -55,7 +60,11 @@ MonoBehaviour:
   m_DepthTextureFormat: 0
   m_AccurateGbufferNormals: 0
   m_IntermediateTextureMode: 0
+<<<<<<< Updated upstream
 --- !u!114 &970310417471627764
+=======
+--- !u!114 &7758610353079515664
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
