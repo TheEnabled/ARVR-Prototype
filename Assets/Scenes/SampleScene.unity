@@ -796,11 +796,20 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
   - component: {fileID: 77314450}
   - component: {fileID: 77314452}
   - component: {fileID: 77314451}
   m_Layer: 5
   m_Name: Text
+=======
+  - component: {fileID: 124965029}
+  - component: {fileID: 124965028}
+  - component: {fileID: 124965030}
+  - component: {fileID: 124965032}
+  m_Layer: 0
+  m_Name: XR Origin
+>>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -836,6 +845,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
+<<<<<<< Updated upstream
   m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1135,6 +1145,15 @@ MonoBehaviour:
   m_MatchFrameRate: 1
   m_TrackingMode: 2
 --- !u!4 &56962016
+=======
+  m_EditorClassIdentifier: Unity.XR.CoreUtils::Unity.XR.CoreUtils.XROrigin
+  m_Camera: {fileID: 265745544}
+  m_OriginBaseGameObject: {fileID: 124965027}
+  m_CameraFloorOffsetObject: {fileID: 606158779}
+  m_RequestedTrackingOriginMode: 1
+  m_CameraYOffset: 1.1176
+--- !u!4 &124965029
+>>>>>>> Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1174,9 +1193,9 @@ MonoBehaviour:
   m_TrackedImagePrefab: {fileID: 8201124625773067137, guid: cf280bd936337f546bab752f412982c8, type: 3}
 =======
       m_Calls:
-      - m_Target: {fileID: 124965031}
-        m_TargetAssemblyTypeName: TrackedImageManager, Assembly-CSharp
-        m_MethodName: OnTrackedImageChanged
+      - m_Target: {fileID: 124965032}
+        m_TargetAssemblyTypeName: TrackedImageObjectHandler, Assembly-CSharp
+        m_MethodName: OnTrackedImagesChanged
         m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1186,11 +1205,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< Updated upstream
   m_SerializedLibrary: {fileID: 11400000, guid: 39190d88a3dcfa94ab2f3095ff0d9648, type: 2}
   m_MaxNumberOfMovingImages: 1
   m_TrackedImagePrefab: {fileID: 4138405656097384544, guid: 2c1d0f5f0ec17b940a195c4f6afa188a, type: 3}
 >>>>>>> Stashed changes
 --- !u!114 &124965031
+=======
+  m_SerializedLibrary: {fileID: 11400000, guid: 460d0161c9deda242bd66633f8cfb046, type: 2}
+  m_MaxNumberOfMovingImages: 3
+  m_TrackedImagePrefab: {fileID: 3050339924341500358, guid: 5b9572dfd1212f44183c4a1f64eec4a8, type: 3}
+--- !u!114 &124965032
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1202,9 +1228,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f32d6f564198bc34f8b1eec8b2c57869, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TrackedImageObjectHandler
+<<<<<<< Updated upstream
   virtualObjPrefab: {fileID: 8201124625773067137, guid: cf280bd936337f546bab752f412982c8, type: 3}
   yOffset: 0.05
 --- !u!1 &146999223
+=======
+  playerPrefab: {fileID: 3174242874147758910, guid: 60dc0121b5be8e541892ff30a896b59d, type: 3}
+  enemyPrefab: {fileID: 7357275472359970213, guid: d5314b1852d773a499f86c75e3be5074, type: 3}
+  interactablePrefab: {fileID: 1602298379311176061, guid: cf280bd936337f546bab752f412982c8, type: 3}
+  yOffset: 0.05
+--- !u!1 &158134565
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1655,7 +1689,11 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
+<<<<<<< Updated upstream
 --- !u!1 &334359440
+=======
+--- !u!1 &315588306
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

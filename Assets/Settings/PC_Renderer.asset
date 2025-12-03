@@ -44,11 +44,16 @@ MonoBehaviour:
   m_RendererFeatures:
   - {fileID: 7833122117494664109}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - {fileID: -3796854253969849870}
   m_RendererFeatureMap: ad6b866f10d7b46cf24132302cdd4ecb
 =======
   - {fileID: -6766634012145829548}
   m_RendererFeatureMap: ad6b866f10d7b46c54b9f894371618a2
+>>>>>>> Stashed changes
+=======
+  - {fileID: 3428885062417458379}
+  m_RendererFeatureMap: ad6b866f10d7b46ccb240919ccd8952f
 >>>>>>> Stashed changes
   m_UseNativeRenderPass: 1
   xrSystemData: {fileID: 0}
@@ -78,6 +83,19 @@ MonoBehaviour:
   m_DepthTextureFormat: 0
   m_AccurateGbufferNormals: 0
   m_IntermediateTextureMode: 0
+--- !u!114 &3428885062417458379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ae4d376c05df421b98c5b39b25b0d29, type: 3}
+  m_Name: ARBackgroundRendererFeature
+  m_EditorClassIdentifier: Unity.XR.ARFoundation::UnityEngine.XR.ARFoundation.ARBackgroundRendererFeature
+  m_Active: 1
 --- !u!114 &7833122117494664109
 MonoBehaviour:
   m_ObjectHideFlags: 0

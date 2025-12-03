@@ -932,6 +932,17 @@
             "icon": null
           },
           {
+<<<<<<< Updated upstream
+=======
+            "name": "CapsuleCollider",
+            "scenes": [
+              "Assets/Scenes/SampleScene.unity"
+            ],
+            "dependencyType": 0,
+            "icon": null
+          },
+          {
+>>>>>>> Stashed changes
             "name": "CharacterController",
             "scenes": [],
             "dependencyType": 0,
@@ -956,6 +967,17 @@
             "icon": null
           },
           {
+<<<<<<< Updated upstream
+=======
+            "name": "SphereCollider",
+            "scenes": [
+              "Assets/Scenes/SampleScene.unity"
+            ],
+            "dependencyType": 0,
+            "icon": null
+          },
+          {
+>>>>>>> Stashed changes
             "name": "Required by UIElements Module",
             "scenes": [],
             "dependencyType": 2,

@@ -178,9 +178,13 @@ PlayerSettings:
   overrideDefaultApplicationIdentifier: 1
   AndroidBundleVersionCode: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   AndroidMinSdkVersion: 24
 =======
   AndroidMinSdkVersion: 25
+>>>>>>> Stashed changes
+=======
+  AndroidMinSdkVersion: 24
 >>>>>>> Stashed changes
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1

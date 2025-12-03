@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4956772271570287299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ae4d376c05df421b98c5b39b25b0d29, type: 3}
+  m_Name: ARBackgroundRendererFeature
+  m_EditorClassIdentifier: Unity.XR.ARFoundation::UnityEngine.XR.ARFoundation.ARBackgroundRendererFeature
+  m_Active: 1
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26,11 +39,16 @@ MonoBehaviour:
     probeVolumeBlendStatesCS: {fileID: 0}
   m_RendererFeatures:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - {fileID: 970310417471627764}
   m_RendererFeatureMap: f4e1410b2f3c770d
 =======
   - {fileID: 7758610353079515664}
   m_RendererFeatureMap: 10faf85d021fac6b
+>>>>>>> Stashed changes
+=======
+  - {fileID: -4956772271570287299}
+  m_RendererFeatureMap: 3d058c90e10136bb
 >>>>>>> Stashed changes
   m_UseNativeRenderPass: 1
   xrSystemData: {fileID: 0}

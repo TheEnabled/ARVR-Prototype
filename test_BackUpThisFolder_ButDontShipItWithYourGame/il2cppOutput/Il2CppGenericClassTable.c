@@ -1176,6 +1176,10 @@ extern Il2CppGenericClass Dictionary_2_tE1603CE612C16451D1E56FF4D4859D4FE4087C28
 extern Il2CppGenericClass Dictionary_2_t0D30F244E964F28CF6AAA19A3EA60B8086E65D33_GenericClass;
 extern Il2CppGenericClass Dictionary_2_t41A97B6849DA9B80390BF3C8A232EC503E0314E6_GenericClass;
 extern Il2CppGenericClass Dictionary_2_tEFC8016EC28460E6CE058A5F413FAB656883AA5F_GenericClass;
+<<<<<<< Updated upstream
+=======
+extern Il2CppGenericClass Dictionary_2_t0B15A60B00EC883D4249611C6C641C7BED5A71CE_GenericClass;
+>>>>>>> Stashed changes
 extern Il2CppGenericClass Dictionary_2_t199B89E88610A05AB33655B2712F15837300CDAA_GenericClass;
 extern Il2CppGenericClass Dictionary_2_tFA0E7CD5951B83DD87A65E89D971A68E538F9470_GenericClass;
 extern Il2CppGenericClass Dictionary_2_t5C8F46F5D57502270DD9E1DA8303B23C7FE85588_GenericClass;
@@ -11481,7 +11485,11 @@ IL2CPP_EXTERN_C_END
 
 
 IL2CPP_EXTERN_C Il2CppGenericClass* const g_Il2CppGenericTypes[];
+<<<<<<< Updated upstream
 Il2CppGenericClass* const g_Il2CppGenericTypes[14220] = 
+=======
+Il2CppGenericClass* const g_Il2CppGenericTypes[14222] = 
+>>>>>>> Stashed changes
 {
 &U3CU3Ec_t598E09BE3D5E8AC7EAC4533A678F3CB4A2AC5E4F_GenericClass,
 &U3CU3Ec_tFA7D9CEFB49946BA9B345FBE25C8AA6816B784D9_GenericClass,
@@ -12901,6 +12909,10 @@ Il2CppGenericClass* const g_Il2CppGenericTypes[14220] =
 &Dictionary_2_t0D30F244E964F28CF6AAA19A3EA60B8086E65D33_GenericClass,
 &Dictionary_2_t41A97B6849DA9B80390BF3C8A232EC503E0314E6_GenericClass,
 &Dictionary_2_tEFC8016EC28460E6CE058A5F413FAB656883AA5F_GenericClass,
+<<<<<<< Updated upstream
+=======
+&Dictionary_2_t0B15A60B00EC883D4249611C6C641C7BED5A71CE_GenericClass,
+>>>>>>> Stashed changes
 &Dictionary_2_t199B89E88610A05AB33655B2712F15837300CDAA_GenericClass,
 &Dictionary_2_tFA0E7CD5951B83DD87A65E89D971A68E538F9470_GenericClass,
 &Dictionary_2_t5C8F46F5D57502270DD9E1DA8303B23C7FE85588_GenericClass,
@@ -22410,6 +22422,10 @@ Il2CppGenericClass* const g_Il2CppGenericTypes[14220] =
 &Dictionary_2_tE1603CE612C16451D1E56FF4D4859D4FE4087C28_GenericClass,
 &Dictionary_2_t41A97B6849DA9B80390BF3C8A232EC503E0314E6_GenericClass,
 &Dictionary_2_tEFC8016EC28460E6CE058A5F413FAB656883AA5F_GenericClass,
+<<<<<<< Updated upstream
+=======
+&Dictionary_2_t0B15A60B00EC883D4249611C6C641C7BED5A71CE_GenericClass,
+>>>>>>> Stashed changes
 &Dictionary_2_t199B89E88610A05AB33655B2712F15837300CDAA_GenericClass,
 &Dictionary_2_tFA0E7CD5951B83DD87A65E89D971A68E538F9470_GenericClass,
 &Dictionary_2_t8CE98F372F16BA0B96FEC3C5AC31FA06153DE2C3_GenericClass,

@@ -107,6 +107,7 @@ static Il2CppTokenAdjustorThunkPair s_adjustorThunks[1] =
 };
 static const int32_t s_InvokerIndices[45] = 
 {
+<<<<<<< Updated upstream
 	15209,
 	15016,
 	15145,
@@ -119,10 +120,25 @@ static const int32_t s_InvokerIndices[45] =
 	17233,
 	19947,
 	18310,
+=======
+	15210,
+	15017,
+	15146,
+	1771,
+	26216,
+	15406,
+	24540,
+	24298,
+	24477,
+	17234,
+	19948,
+	18311,
+>>>>>>> Stashed changes
 	5904,
 	2537,
 	5904,
 	1773,
+<<<<<<< Updated upstream
 	24474,
 	15394,
 	15309,
@@ -152,6 +168,37 @@ static const int32_t s_InvokerIndices[45] =
 	8305,
 	19631,
 	19636,
+=======
+	24475,
+	15395,
+	15310,
+	15210,
+	26305,
+	22045,
+	24791,
+	24667,
+	5390,
+	4388,
+	19175,
+	18100,
+	15210,
+	15406,
+	2410,
+	1938,
+	5390,
+	15146,
+	15406,
+	8306,
+	26164,
+	26305,
+	24655,
+	26305,
+	15406,
+	15406,
+	8306,
+	19632,
+	19637,
+>>>>>>> Stashed changes
 };
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_UnityEngine_TerrainModule_CodeGenModule;
 const Il2CppCodeGenModule g_UnityEngine_TerrainModule_CodeGenModule = 

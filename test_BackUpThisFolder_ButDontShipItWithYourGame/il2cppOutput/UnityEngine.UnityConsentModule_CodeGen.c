@@ -29,11 +29,19 @@ static Il2CppTokenAdjustorThunkPair s_adjustorThunks[2] =
 };
 static const int32_t s_InvokerIndices[5] = 
 {
+<<<<<<< Updated upstream
 	15405,
 	15209,
 	26168,
 	26304,
 	25014,
+=======
+	15406,
+	15210,
+	26169,
+	26305,
+	25015,
+>>>>>>> Stashed changes
 };
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_UnityEngine_UnityConsentModule_CodeGenModule;
 const Il2CppCodeGenModule g_UnityEngine_UnityConsentModule_CodeGenModule = 

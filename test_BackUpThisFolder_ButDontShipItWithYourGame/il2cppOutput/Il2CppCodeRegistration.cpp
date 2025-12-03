@@ -161,7 +161,11 @@ const Il2CppCodeRegistration g_CodeRegistration =
 	125296,
 	g_Il2CppGenericMethodPointers,
 	g_Il2CppGenericAdjustorThunks,
+<<<<<<< Updated upstream
 	26367,
+=======
+	26368,
+>>>>>>> Stashed changes
 	g_Il2CppInvokerPointers,
 	3836,
 	g_UnresolvedVirtualMethodPointers,

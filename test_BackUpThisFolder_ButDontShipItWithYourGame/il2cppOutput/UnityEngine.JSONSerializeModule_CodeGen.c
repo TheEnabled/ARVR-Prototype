@@ -27,6 +27,7 @@ static Il2CppMethodPointer s_methodPointers[8] =
 };
 static const int32_t s_InvokerIndices[8] = 
 {
+<<<<<<< Updated upstream
 	21303,
 	19176,
 	24670,
@@ -35,6 +36,16 @@ static const int32_t s_InvokerIndices[8] =
 	21311,
 	19899,
 	19134,
+=======
+	21304,
+	19177,
+	24671,
+	21304,
+	-1,
+	21312,
+	19900,
+	19135,
+>>>>>>> Stashed changes
 };
 static const Il2CppTokenRangePair s_rgctxIndices[1] = 
 {

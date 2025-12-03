@@ -54,6 +54,7 @@ static const int32_t s_InvokerIndices[20] =
 {
 	5904,
 	5285,
+<<<<<<< Updated upstream
 	26215,
 	25034,
 	26304,
@@ -72,6 +73,26 @@ static const int32_t s_InvokerIndices[20] =
 	26163,
 	25020,
 	26260,
+=======
+	26216,
+	25035,
+	26305,
+	25031,
+	22037,
+	22038,
+	22032,
+	25021,
+	26177,
+	26177,
+	26197,
+	25033,
+	17953,
+	25045,
+	25031,
+	26164,
+	25021,
+	26261,
+>>>>>>> Stashed changes
 };
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_UnityEngine_InputModule_CodeGenModule;
 const Il2CppCodeGenModule g_UnityEngine_InputModule_CodeGenModule = 
