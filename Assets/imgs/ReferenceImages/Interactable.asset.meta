@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/imgs/ReferenceImages/Interactable.asset.meta
 guid: 9b8cdb783e98d244bb41b75b40eb83aa
+========
+guid: 39190d88a3dcfa94ab2f3095ff0d9648
+>>>>>>>> Stashed changes:Assets/imgs/ReferenceImages/Player,Enemy,Interact.asset.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
