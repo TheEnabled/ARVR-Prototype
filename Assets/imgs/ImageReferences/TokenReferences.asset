@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: TokenReferences
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 4912202644545401387
+  m_GuidHigh: 13911200060413259159
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5196224197252870519
+      m_GuidHigh: 16548862278049767101
+    m_SerializedTextureGuid:
+      m_GuidLow: 15601642507173480278
+      m_GuidHigh: 8484131133886966153
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Player
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5626987511375146743
+      m_GuidHigh: 9323575928479745425
+    m_SerializedTextureGuid:
+      m_GuidLow: 8855207715825861117
+      m_GuidHigh: 16846057503829308649
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Interactable
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5713101459968602910
+      m_GuidHigh: 4173778185821962135
+    m_SerializedTextureGuid:
+      m_GuidLow: 13993834371998798545
+      m_GuidHigh: 16293382921466030793
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Enemy
+    m_Texture: {fileID: 0}
